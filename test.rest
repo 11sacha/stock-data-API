@@ -1,0 +1,10 @@
+###
+GET http://localhost:5356/api/stock?stock=PYPL
+
+###
+POST http://localhost:5356/api/test
+Content-Type: application/json
+
+{
+    "message": "Free Stock Data"
+}

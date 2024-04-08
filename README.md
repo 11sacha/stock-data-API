@@ -1,0 +1,1 @@
+## Simple Stock-Data API developed with Express in Node.js
